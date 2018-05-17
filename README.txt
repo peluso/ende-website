@@ -1,7 +1,5 @@
 
-Inserto una nueva línea de código para ver las differencias con el issue 1#
-
-Inserto una linea en local con el usuario de lilly
+Inserto una linea en local con el usuario de lilly - es el cambio 3#
 
 Read Only by HTML5 UP
 html5up.net | @peluso 
