@@ -1,5 +1,5 @@
 
-El 30/05/2018 Empiezo a trabajar en el proyecto
+El 31/05/2018 Arreglo el merge 
 
 Read Only by HTML5 UP
 html5up.net | @peluso 
